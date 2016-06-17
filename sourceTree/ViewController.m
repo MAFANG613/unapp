@@ -22,7 +22,7 @@
 }
 
 - (void)gongcheng {
-    
+    NSLog(@"打印");
 }
 
 - (void)didReceiveMemoryWarning {
